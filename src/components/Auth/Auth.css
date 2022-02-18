@@ -1,0 +1,14 @@
+.login {
+    min-height: 83vh;
+}
+
+span.profile {
+    color: white;
+}
+span.profile img {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin: 0 10px;
+    border: 1px solid white;
+}
